@@ -14,6 +14,6 @@ class Dart {
 }
 
 void main() {
-  var result = new Dart();
-  //print(result._age);
+   new Dart();
+  
 }

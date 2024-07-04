@@ -7,7 +7,9 @@ class flutter {
   }
 }
 
-class Dart extends flutter {}
+class Dart extends flutter {
+  
+}
 
 void main() {
   var result = new Dart();
