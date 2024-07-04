@@ -92,7 +92,12 @@ class B {
 
 // class C extends B {
 
-//   var percent = 
+
+
+//   vai (){
+//     var ext = new B();
+//     var sum2 = ext
+//   }
 
 // }
 
